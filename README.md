@@ -16,7 +16,7 @@
 - :1st_place_medal: Top 1% hacker at <a href="https://tryhackme.com/p/Amass" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>
 
 
-- :mailbox: How to reach me: 
+ 
 - :mailbox: How to reach me:
  <div id="badges">
   <a href="https://ng.linkedin.com/in/Abdulhameed Jimoh">
@@ -36,18 +36,22 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> </a>
+<!--<a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> </a>
+
   <a href="https://https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </a>
    <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> </a>
+
   <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </a> -->
+
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="50"/> </a>
 </div>
-## :fire: My GitHub Statistics 
+
+### :fire: My GitHub Statistics 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amasscyberworld&layout=compact&theme=vision-friendly-dark&align="left")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amasscyberworld&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <p>&nbsp;<img align ="center" src="https://github-readme-stats.vercel.app/api?username=Amasscyberworld&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Amasscyberworld" /></p>

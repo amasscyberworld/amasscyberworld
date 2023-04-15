@@ -6,13 +6,14 @@
 
 #### You're welcome on board! I'm Jimoh Abdulhameed Hamdan. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria :nigeria:. I am flexible, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, dependable, responsible and hard working person, I see myself being part of one of the geniuses making the planet Earth a better place to live by contributing hugely in the tech world, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
  
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
+ <img src="https://giphy.com/gifs/cyberwar-3o6ZsXhBzpoRApBkPK/giphy.jif" width="200" height="150">
 
 
 ![](https://komarev.com/ghpvc/?username=Amasscyberworld&color=blue)
 
-- :seedling: Exploring the Tech World and Cyber Space. :earth_americas:
-- :student: A student of Software Engineering at  <a href="https://www.netacad.com" target='_blank' width="50" alt="CISCO">CISCO Networking Academy</a>
+- :seedling: Exploring the Tech World and Cyber Space :earth_americas:
+- :student: A student of Ethical Hacking & Network Security at  <a href="https://www.netacad.com" target='_blank' width="50" alt="CISCO">CISCO Networking Academy</a>
+- :student: A student of Software development at  <a href="https://www.codemy.com" target='_blank' width="50" alt="CODEMY">CODEMY</a>
 - :1st_place_medal: Top 1% hacker at <a href="https://tryhackme.com/p/Amass" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>
 
 
@@ -54,6 +55,6 @@
 ### :fire: My GitHub Statistics 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amasscyberworld&layout=compact&theme=vision-friendly-dark&align="left")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amasscyberworld&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<p>&nbsp;<img align ="center" src="https://github-readme-stats.vercel.app/api?username=Amasscyberworld&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Amasscyberworld" /></p>
+<p>&nbsp;<img-align="center" src="https://github-readme-stats.vercel.app/api?username=Amasscyberworld&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Amasscyberworld" /></p>
 <!--## Buy me a coffee
 <a href="https://flutterwave.com/pay/cpwse7rviim1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;" ></a>

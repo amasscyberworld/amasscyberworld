@@ -4,7 +4,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-#### I welcome you on board! I'm Jimoh Abdulhameed Hamdan. A Cyber Security Specialist, an Ethical Hacker, a Penetration Tester and a Software Developer from Nigeria :nigeria:. I am flexible, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, dependable, responsible and hard working person, I see myself being part of one of the geniuses making the planet Earth a better place to live by contributing hugely in the tech world, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+#### I welcome you on board! I'm Jimoh Abdulhameed Hamdan. A Cyber Security Specialist, an Ethical Hacker/Penetration Tester & a Digital Forensics Analyst/Examiner from Nigeria :nigeria:. I am flexible, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, dependable, responsible and hard working person, I see myself being part of one of the geniuses making the planet Earth a better place to live by contributing hugely in the tech world, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+
+### Highly passionate Cybersecurity Enthusiast with a robust foundation in Linux, Windows, and Networking, demonstrating an unwavering commitment to the field. Proficient in a diverse array of Programming Languages, including a mastery of Scripting Languages such as Python and Bash Scripting. Adept at utilizing cutting-edge Penetration tools to assess and fortify security measures.
+
+### Possessing a deep understanding of security protocols and intricate network architecture, with a keen eye for identifying and exploiting misconfigurations in popular services and protocols. The combination of strong analytical and problem-solving skills enables the adept navigation of complex cybersecurity challenges.
+
+### Proven ability to thrive both independently and as a collaborative team member, showcasing adaptability and versatility in addressing various security concerns. This individual is not just a practitioner; they embody a genuine passion for the ever-evolving realm of cybersecurity.
  
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM1NWYzODBiODA1NGE0NGQzMTA1NjQ3NzUwYzJiY2IzOTU2OWQ4NyZjdD1n/3o6ZsXhBzpoRApBkPK/giphy.gif" width="200" height="150">
  
@@ -13,14 +19,15 @@
 
 - :seedling: Exploring the Tech World and Cyber Space :earth_americas:
 - :student: A student of Ethical Hacking & Network Security at  <a href="https://www.netacad.com" target='_blank' width="50" alt="CISCO">CISCO Networking Academy</a>
-- :student: A student of Software development at  <a href="https://www.codemy.com" target='_blank' width="50" alt="CODEMY">CODEMY</a>
+- :student: A student of Ethical Hacking/Penetration Testing at  <a href="https://https://academy.tcm-sec.com/" target='_blank' width="50" alt="TCM ACADEMY">TCM ACADEMY</a>
+- :student: A student of Digital Forensics Analyst/Examiner at  <a href="https://https://academy.tcm-sec.com/" target='_blank' width="50" alt="TCM ACADEMY">TCM ACADEMY</a>
 - :1st_place_medal: Top 1% hacker at <a href="https://tryhackme.com/p/Amass" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>
 
 
  
 - :mailbox: How to reach me:
  <div id="badges">
-  <a href="https://ng.linkedin.com/in/Abdulhameed Jimoh">
+  <a href="https://www.linkedin.com/in/abdulhameed-jimoh-9b5932272">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   <a href="https://twitter.com/amasscyberworld">
